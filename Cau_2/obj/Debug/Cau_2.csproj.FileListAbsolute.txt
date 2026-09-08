@@ -1,0 +1,7 @@
+D:\C#\Cau_2\obj\Debug\Cau_2.csproj.AssemblyReference.cache
+D:\C#\Cau_2\obj\Debug\Cau_2.csproj.CoreCompileInputs.cache
+D:\C#\Cau_2\bin\Debug\Cau_2.exe.config
+D:\C#\Cau_2\bin\Debug\Cau_2.exe
+D:\C#\Cau_2\bin\Debug\Cau_2.pdb
+D:\C#\Cau_2\obj\Debug\Cau_2.exe
+D:\C#\Cau_2\obj\Debug\Cau_2.pdb
