@@ -1,0 +1,13 @@
+D:\C#\P.A\obj\Debug\P.A.csproj.AssemblyReference.cache
+D:\C#\P.A\obj\Debug\P.A.Form1.resources
+D:\C#\P.A\obj\Debug\P.A.Properties.Resources.resources
+D:\C#\P.A\obj\Debug\P.A.csproj.GenerateResource.cache
+D:\C#\P.A\obj\Debug\P.A.csproj.CoreCompileInputs.cache
+D:\C#\P.A\bin\Debug\P.A.exe.config
+D:\C#\P.A\bin\Debug\P.A.exe
+D:\C#\P.A\bin\Debug\P.A.pdb
+D:\C#\P.A\obj\Debug\P.A.exe
+D:\C#\P.A\obj\Debug\P.A.pdb
+D:\C#\P.A\obj\Debug\P.A.Form2.resources
+D:\C#\P.A\obj\Debug\P.A.Form3.resources
+D:\C#\P.A\obj\Debug\P.A.Form4.resources
